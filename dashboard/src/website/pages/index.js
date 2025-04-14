@@ -1,5 +1,0 @@
-export { default as MainPage } from './main/main'
-export { default as AboutPage } from './about/about'
-export { default as ElibraryPage } from './elibrary/elibrary'
-export { default as KyrgyzLanguagePage } from './kyrgyz-language/kyrgyz-language'
-export { default as VestnikPage } from './vestnik/vestnik'

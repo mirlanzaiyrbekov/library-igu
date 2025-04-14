@@ -1,1 +1,0 @@
-export const VESTNIK_NOT_FOUND: string = 'Вестник с таким номером не найден'

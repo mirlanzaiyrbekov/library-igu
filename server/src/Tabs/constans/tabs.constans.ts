@@ -1,1 +1,0 @@
-export const TABS_NOT_FOUND: string = 'TABS с таким ID не найден'

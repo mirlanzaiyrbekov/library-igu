@@ -1,0 +1,5 @@
+export const MAIN_CATEGORY_NOT_FOUND = 'Категория не найдена'
+export const CATEGORY_NOT_FOUND = 'Подкатегория не найдена'
+export const BOOK_NOT_FOUND = 'Книга по такому ID не найдена'
+export const MAIN_CATEGORY_ALREADY_EXIST = 'Данная категория уже существует'
+export const CATEGORY_ALREADY_EXIST = 'Данная подкатегория уже существует'
